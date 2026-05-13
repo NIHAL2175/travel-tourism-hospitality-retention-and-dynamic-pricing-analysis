@@ -71,7 +71,7 @@ Using **Exploratory Data Analysis (EDA)** and baseline machine learning models, 
 - Logistic Regression / Decision Tree
 - Predict booking cancellations
 
-### Model Evaluation Using
+## Model Evaluation Using
 
 - Accuracy
 - Precision
