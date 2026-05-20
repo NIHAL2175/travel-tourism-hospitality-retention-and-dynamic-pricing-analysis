@@ -1,4 +1,4 @@
-# Travel, Tourism & Hospitality – Customer Retention & Dynamic Pricing 
+# Travel, Tourism & Hospitality – Customer Retention & Dynamic Pricing Analysis
 
 ## Project Overview
 
