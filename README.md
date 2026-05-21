@@ -4,7 +4,7 @@
 
 In the highly competitive travel and hospitality industry, revenue loss often occurs due to unoptimized pricing strategies and high booking cancellations.
 
-This project focuses on:
+This project focuses on: 
 
 - Understanding customer cancellation behavior (churn)
 - Analyzing seasonal demand trends
