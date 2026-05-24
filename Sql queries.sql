@@ -6,7 +6,7 @@ USE tourism_analytics;
 SHOW TABLES;
 
 -- TOTAL ROWS
-SELECT COUNT(*) AS total_rows  
+SELECT COUNT(*) AS total_rows   
 FROM hotel_data;
 
 -- VIEW SAMPLE DATA
