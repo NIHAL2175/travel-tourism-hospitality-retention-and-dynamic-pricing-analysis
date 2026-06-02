@@ -6,7 +6,7 @@ df = pd.read_csv("cleaned_hotel_bookings.csv")
 
 # take only 1000 rows
 df = df.head(1000)
-
+ 
 # mysql connection
 engine = create_engine(
     "mysql+pymysql://root:DB_Password@localhost/tourism_analytics"  
