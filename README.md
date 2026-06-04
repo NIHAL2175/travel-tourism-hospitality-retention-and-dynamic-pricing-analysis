@@ -6,7 +6,7 @@ In the highly competitive travel and hospitality industry, revenue loss often oc
 
 This project focuses on:  
 
-- Understanding customer cancellation behavior (churn)
+- Understanding customer cancellation behavior (churn) 
 - Analyzing seasonal demand trends
 - Building a data foundation for dynamic pricing systems
 
