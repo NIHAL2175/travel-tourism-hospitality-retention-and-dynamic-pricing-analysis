@@ -7,7 +7,7 @@ SHOW TABLES;
 
 -- TOTAL ROWS
 SELECT COUNT(*) AS total_rows      
-FROM hotel_data; 
+FROM hotel_data;  
 
 -- VIEW SAMPLE DATA
 SELECT *
