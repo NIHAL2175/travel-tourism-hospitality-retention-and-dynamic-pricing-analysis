@@ -1,7 +1,7 @@
 -- CREATE DATABASE
 CREATE DATABASE IF NOT EXISTS tourism_analytics; 
 USE tourism_analytics; 
-  
+   
 -- SHOW TABLES 
 SHOW TABLES;
 
