@@ -1,5 +1,5 @@
 import pandas as pd
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine  
 
 # read csv
 df = pd.read_csv("cleaned_hotel_bookings.csv") 
