@@ -1,7 +1,7 @@
 # Travel, Tourism & Hospitality – Customer Retention & Dynamic Pricing Analysis   
  
 ## Project Overview     
-
+ 
 In the highly competitive travel and hospitality industry, revenue loss often occurs due to unoptimized pricing strategies and high booking cancellations.
 
 This project focuses on:  
